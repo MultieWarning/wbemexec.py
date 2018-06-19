@@ -1,0 +1,7 @@
+This is my own python version of wbemexec.rb
+This file will create .mof file  that will execute a file located in system32
+and delete it when the session is over. MOF files are auto compiled and installed
+if placed in wbem\mof folder. This was a technique used as part of Stuxnet.
+
+Author: Multie
+@MultiWarning
